@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:text="Founder : Sabda PS & Medy S"
+        android:text="Founder : Sabda PS &amp; Medy S"
         android:id="@+id/founder"
         android:layout_below="@id/logo" />
     <TextView
